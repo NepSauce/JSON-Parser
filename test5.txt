@@ -1,0 +1,10 @@
+<LBRACE, None>
+<STRING, key1>
+<COLON, None>
+<STRING, value1>
+<COMMA, None>
+<STRING, key1>
+<COLON, None>
+<STRING, value2>
+<RBRACE, None>
+<EOF, None>

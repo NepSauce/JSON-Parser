@@ -1,0 +1,6 @@
+<LBRACE, None>
+<STRING, key>
+<COLON, None>
+<STRING, true>
+<RBRACE, None>
+<EOF, None>

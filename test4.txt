@@ -1,0 +1,10 @@
+<LBRACE, None>
+<STRING, true>
+<COLON, None>
+<STRING, This is invalid>
+<COMMA, None>
+<STRING, false>
+<COLON, None>
+<STRING, This is also invalid>
+<RBRACE, None>
+<EOF, None>

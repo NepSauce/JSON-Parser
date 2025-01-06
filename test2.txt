@@ -1,0 +1,6 @@
+<LBRACE, None>
+<STRING, >
+<COLON, None>
+<STRING, Zawad>
+<RBRACE, None>
+<EOF, None>

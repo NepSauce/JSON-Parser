@@ -1,0 +1,6 @@
+<LBRACE, None>
+<STRING, InvalidDecNumber>
+<COLON, None>
+<NUMBER, 3.>
+<RBRACE, None>
+<EOF, None>

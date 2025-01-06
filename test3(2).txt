@@ -1,0 +1,6 @@
+<LBRACE, None>
+<STRING, InvalidNumber>
+<COLON, None>
+<NUMBER, 0123>
+<RBRACE, None>
+<EOF, None>

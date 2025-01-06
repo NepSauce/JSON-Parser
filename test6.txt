@@ -1,0 +1,6 @@
+<LBRACKET, None>
+<STRING, value1>
+<COMMA, None>
+<NUMBER, 42>
+<RBRACKET, None>
+<EOF, None>

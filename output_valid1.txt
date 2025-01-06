@@ -1,0 +1,23 @@
+Object:
+  Pair:
+    Key: name
+    String: Zawad
+  Pair:
+    Key: age
+    Number: 21.0
+  Pair:
+    Key: isStudent
+    Boolean: True
+  Pair:
+    Key: courses
+    Array:
+      Element:
+        String: CSCI2115
+      Element:
+        String: CSCI2134
+      Element:
+        String: CSCI2110
+      Element:
+        String: CSCI2141
+      Element:
+        String: PHYC2451

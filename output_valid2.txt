@@ -1,0 +1,19 @@
+Object:
+  Pair:
+    Key: name
+    String: Alice
+  Pair:
+    Key: age
+    Number: 25.0
+  Pair:
+    Key: isEmployed
+    Boolean: True
+  Pair:
+    Key: skills
+    Array:
+      Element:
+        String: Python
+      Element:
+        String: Java
+      Element:
+        String: SQL
